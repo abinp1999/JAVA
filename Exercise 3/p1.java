@@ -69,3 +69,5 @@ if(obj3.price<obj1.price && obj3.price<obj2.price)
 	Enter person 3  pcode,pname,price: 3 brush 15
 	Product code= 3 , Product name=brush , price=15
 	*/
+//Verified
+//Output change from person to product
