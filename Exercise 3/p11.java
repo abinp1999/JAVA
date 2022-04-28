@@ -88,3 +88,4 @@ System.out.println("AREA OF CIRCLE: "+(3.14*r*r));
 	4 5
 	AREA OF RECTANGLE: 20
 	*/
+//Verified
