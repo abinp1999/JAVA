@@ -28,21 +28,21 @@ public static void main(String args[])
             p1 obj3=new p1();
       
 
-            System.out.print("Enter person 1 "+" pcode,pname,price: ");
+            System.out.print("Enter product 1 "+" pcode,pname,price: ");
               a1=s.nextInt();
               c1=s.next();
               b1=s.nextInt();
              obj1.setdata(a1,b1,c1); //invoking setdata
 
            
-            System.out.print("Enter person 2 "+" pcode,pname,price: ");
+            System.out.print("Enter product 2 "+" pcode,pname,price: ");
               a2=s.nextInt();
               c2=s.next();
               b2=s.nextInt();
               obj2.setdata(a2,b2,c2);
 
           
-            System.out.print("Enter person 3 "+" pcode,pname,price: ");
+            System.out.print("Enter product 3 "+" pcode,pname,price: ");
              a3=s.nextInt();
               c3=s.next();
                b3=s.nextInt();
@@ -64,9 +64,9 @@ if(obj3.price<obj1.price && obj3.price<obj2.price)
 	/*
 	OUTPUT
 	______
-	Enter person 1  pcode,pname,price: 1 soap 50
-	Enter person 2  pcode,pname,price: 2 paste 40
-	Enter person 3  pcode,pname,price: 3 brush 15
+	Enter product 1  pcode,pname,price: 1 soap 50
+	Enter product 2  pcode,pname,price: 2 paste 40
+	Enter product 3  pcode,pname,price: 3 brush 15
 	Product code= 3 , Product name=brush , price=15
 	*/
 //Verified
